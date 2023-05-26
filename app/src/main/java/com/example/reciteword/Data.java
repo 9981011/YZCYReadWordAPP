@@ -1,5 +1,4 @@
 package com.example.reciteword;
-
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
@@ -97,6 +96,7 @@ public class Data {
     static Word word88 = new Word("furthermore","['fə:ðə'mɔ:]","adv. 而且，此外",0,0);
     static Word word89 = new Word("explicit","[iks'plisit]","adj. 明确的，详述的",0,0);
     static Word word90 = new Word("betray","[bi'trei]","vt. 误导，出卖;vi. 证明...错误",0,0);
+
 
     public static void initWordList(){
         wordList.add(word0);    wordList.add(word10);    wordList.add(word20);
