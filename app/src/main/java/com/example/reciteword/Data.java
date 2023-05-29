@@ -143,6 +143,7 @@ public class Data {
         Data.randNum = getNum(91);
     }
 
+
     public static int getNumCount(){return numCount;}
     public static int getRandNum(){return randNum;}
     public static String getWord(int cnt){
